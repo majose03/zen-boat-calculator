@@ -1,0 +1,6 @@
+{
+  "name": "Fishing Income Calculator",
+  "description": "Simple offline mobile application for calculating fishing trip income sharing between boat owner and crew members with Tamil and English labels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
